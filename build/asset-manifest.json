@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tigerveer32/static/css/main.bf538fe7.css",
+    "main.js": "/tigerveer32/static/js/main.a026b38f.js",
+    "static/media/HeroImage.jpg": "/tigerveer32/static/media/HeroImage.2f8a7ef05b23be6b1fd7.jpg",
+    "static/media/HeroImage1.png": "/tigerveer32/static/media/HeroImage1.17c8cdf5df8a710ac467.png",
+    "index.html": "/tigerveer32/index.html",
+    "main.bf538fe7.css.map": "/tigerveer32/static/css/main.bf538fe7.css.map",
+    "main.a026b38f.js.map": "/tigerveer32/static/js/main.a026b38f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a026b38f.js"
+  ]
+}
